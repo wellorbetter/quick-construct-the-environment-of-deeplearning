@@ -1,4 +1,4 @@
-# PYtorch+Anoconda+jupyter
+# Pytorch+Anoconda+jupyter 快速构建深度学习环境
 
 这个教程在Windows和linux上都适用，并且不会出现什么显卡版本号不匹配的情况，不会影响原环境的使用
 
