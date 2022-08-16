@@ -1,4 +1,4 @@
-# PYtorch+Anoconda+jupyter
+# Pytorch+Anoconda+jupyter
 
 这个教程在Windows和linux上都适用，并且不会出现什么显卡版本号不匹配的情况，不会影响原环境的使用
 
@@ -9,7 +9,7 @@
 复制base环境:conda create -n base --clone yourname(这个是自己定义的名字)
 ```
 
-## [PyTorch](https://pytorch.org/)
+## [Pytorch](https://pytorch.org/)
 
     自行到官网查看适配版本 复制适配的cuda版本代码(一般情况下没问题，有问题重复上述步骤新建一个环境，试一下不同的版本) 这个代码先cmd+r打开命令行，然后activate pytorch(我的环境名字叫pytorch) 激活环境 输入代码即可（不会和原来的base环境冲突）
 
